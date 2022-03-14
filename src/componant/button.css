@@ -1,0 +1,24 @@
+.button-1{
+        background: -webkit-linear-gradient(right, #f5425d, #f54293,#f542da);
+        border: none;
+        border-radius: 8px;        
+        cursor: pointer;
+        color: white;
+        font-family: "Raleway SemiBold", sans-serif;
+        height: 42.3px;
+        margin-right: 10px;
+        transition: 0.25s;
+        width: 100px;
+}
+
+.button-2{    
+    border: 1px solid  #f54293;
+    border-radius: 8px;        
+    cursor: pointer;
+    color: white;
+    font-family: "Raleway SemiBold", sans-serif;
+    height: 42.3px;
+    margin-right: 10px;
+    transition: 0.25s;
+    width: 100px;
+}

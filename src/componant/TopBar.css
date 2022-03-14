@@ -1,0 +1,11 @@
+.searchbar {
+    width: 50%;
+    border: none;
+    border-radius: 10px;
+    font-size: small;
+    justify-content: center;
+    height: 30px;
+    background-color: black;
+  }
+
+ 
